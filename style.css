@@ -52,9 +52,12 @@ body p {
   line-height: 1.5rem;
 }
 .attribution {
-  position: sticky;
-  bottom: 0;
-  margin-top: 0.5rem;
+  margin-top: 1.5rem;
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
 }
 
 /*  || MOBILE VIEW STYLES */
@@ -92,11 +95,4 @@ body p {
     padding: 0 0.5rem;
     line-height: 1rem;
   }
-}
-.attribution {
-  font-size: 11px;
-  text-align: center;
-}
-.attribution a {
-  color: hsl(228, 45%, 44%);
 }
