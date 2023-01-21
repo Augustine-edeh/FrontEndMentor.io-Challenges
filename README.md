@@ -23,10 +23,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshots:
 
 (Desktop View)
-![](./images/QR-code-component_Desktop-View_screenshot.png)
+![](./images/Solution-desktop_view-screenshot.png)
 
 (Mobile View)
-![](./images/QR-code-component_Mobile-View_screenshot.png)
+![](./images/Solution-mobile_view-screenshot.png)
 
 ### **Links**
 
