@@ -33,6 +33,7 @@ body {
   padding: 1rem 0;
   display: grid;
   place-content: center;
+  box-shadow: 2px 5px 20px hsl(211, 12%, 66%);
 }
 img {
   height: 21.5rem;
